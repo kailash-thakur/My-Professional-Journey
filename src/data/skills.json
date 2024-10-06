@@ -1,0 +1,58 @@
+[
+    {
+        "title": "C/C++",
+        "imageSrc": "skills/c++.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "Android",
+        "imageSrc": "skills/android.png"
+    },
+    {
+        "title": "AI/ML",
+        "imageSrc": "skills/AIML.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "WAFL",
+        "imageSrc": "skills/filesystem.png"
+    },
+    {
+      "title": "REST",
+      "imageSrc": "skills/restapi.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    }
+
+
+  ]

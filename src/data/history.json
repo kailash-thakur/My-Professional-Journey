@@ -1,0 +1,43 @@
+[
+    {
+      "role": "MTS 3",
+      "organisation": "NetApp",
+      "startDate": "March, 2021",
+      "endDate": "Present",
+      "experiences": [
+        "Autonomous Ransomware Protection (ARP): Ransomware detection inside WAFL file system", 
+        "Developed the ML model to detect ransomware with 99% accuracy", 
+        "Developed an infra to integrate ML model inside kernel",
+        "Researched and found out multiple ways to detect abnormal activity, which lead to better detection of ransomware",
+        "Developed a real time detection of ransomware in SAN workloads",
+        "Worked with REST API to expose ARP api's"
+      ],
+      "imageSrc": "history/netapp.png"
+    },
+    {
+      "role": "Software Developer",
+      "organisation": "Samsung",
+      "startDate": "Aug, 2019",
+      "endDate": "March, 2021",
+      "experiences": [
+        "Worked on Secure Folder App: A separate space in mobile phones and tablets with an extra layer of security to keep private apps and data safe. B2C solution with 90million users", 
+        "Quick Switch: Introduced a framework to switch between Secure Folder and launcher apps with a hardware button click to enable user privacy",
+        "Content Suggestion: Integrated Content Suggestion App to flag and categorize private images and suggest moving them to Secure Folder",
+        "Dual IM: Feature to facilitate the use of more than one instance of a messaging app on a device. B2C solution for 250million users",
+        "Worked on the enhancement features of dual IM with every update of android"
+      ],
+      "imageSrc": "history/samsung.png"
+    },
+    {
+      "role": "SWE Intern",
+      "organisation": "Samsung",
+      "startDate": "Jan, 2019",
+      "endDate": "June, 2019",
+      "experiences": [
+        "Developed chat-based application with end-to-end encryption",
+        "Used SHA-256 encryption for encrypting the chat messages",
+        "Used Google Firebase for database"
+      ],
+      "imageSrc": "history/samsung.png"
+    }
+  ]
