@@ -1,0 +1,25 @@
+[
+    {
+      "title": "My Journey",
+      "imageSrc": "projects/project.png",
+      "description": "Made this project to showcase my professional journey and to practice my skills on CSS and JS",
+      "skills": ["React", "Node", "JavaScript", "CSS", "HTML"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Movie Recommendation System",
+      "imageSrc": "projects/project.png",
+      "description": 
+        "Recommend movies to the user based on the rating provided by the user of already watched movies, Optimized the algorithm by migrating from user based collaborative filtering and improved the accuracy by 25%",
+      "skills": ["AI/ML", "python", "Pandas", "NumPy", "Matplotlib", "Jupyter Notebook"]
+
+    },
+    {
+      "title": "Home Automation",
+      "imageSrc": "projects/project.png",
+      "description": "Home Automation System with Gesture and Voice Recognition. Developed to enhance my understanding of machine learning",
+      "skills": ["AI/ML", "Scikit-learn", "OpenCV", "SpeechRecognition",  "python"]
+
+    }
+  ]
